@@ -2,7 +2,7 @@
 
 ## 説明
 
-Visual Studio Code（VS Code）はMicrosoftが開発しているWindows、Linux、macOS、Web用のソースコードエディタである。カスタマイズ性が高く、テーマやキーボードショートカット、環境設定を変更できたり、機能を追加する拡張機能をインストールすることができる。Stack Overflow 2024 Developer Surveyでは、Visual Studio Codeが最も使用されている統合開発環境としてランクインし、複数回答ありで73.6%が使用していると回答した。
+Visual Studio Code（VS Code）は、Microsoftが開発しているWindows、Linux、macOS、そしてWebで利用できるソースコードエディタです。カスタマイズ性が高く、テーマやキーボードショートカット、環境設定を変更できるほか、必要に応じて機能を追加できる拡張機能をインストールすることもできます。また、開発を効率的に行うためのツールをまとめた「統合開発環境（IDE）」としても広く使われています。Stack Overflow 2024 Developer Surveyでは、複数回答ありで73.6%の開発者がVisual Studio Codeを使用していると回答しており、最も利用されている環境としてランクインしています。
 
 ## 参考文献
 
